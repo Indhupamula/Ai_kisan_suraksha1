@@ -59,7 +59,7 @@ Upload leaf images → get disease prediction
 
 Product Management
 
-Admin can add, edit, delete products
+Admin can add, edit, delete products 
 
 Users can view product catalog
 
